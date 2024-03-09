@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [[text](https://mauludinegi.github.io/social-links/)]
+- Live Site URL: [https://mauludinegi.github.io/social-links/]
 
 ## My process
 
