@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [[text](https://mauludinegi.github.io/social-links/)]
 
 ## My process
 
@@ -52,7 +52,7 @@ Semantic HTML refers to the use of HTML tags that carry meaning about the struct
 
 Semantic HTML helps improve accessibility for assistive technologies, such as screen readers, by providing more meaningful information about the content. Moreover, it contributes positively to search engine optimization (SEO), as search engines can better interpret the content and context of the page.
 
-Examples of semantic HTML tags include <header>, <nav>, <main>, <article>, <section>, <aside>, <footer>, and more. By using these tags appropriately, developers can create well-structured and meaningful web pages that are both accessible and SEO-friendly.
+Examples of semantic HTML tags include `<header>, <nav>, <main>, <article>, <section>, <aside>, <footer>`, and more. By using these tags appropriately, developers can create well-structured and meaningful web pages that are both accessible and SEO-friendly.
 
 Also, the CSS concepts I acquired knowledge of include techniques such as using hover effects to change the background color when the mouse hovers over a card or text, adding an interactive and dynamic touch. Additionally, I explored various CSS properties like display and media screen properties, enhancing my ability to control the layout and appearance of elements on different screen sizes.
 
