@@ -99,13 +99,13 @@ Wish me luck!
 
 ### Useful resources
 
-- [1](https://www.w3schools.com/) - This helped me when I forgot something about the code. I just searched, and it appeared and provided the information I needed.
-- [2](https://www.medium.com) - This is a place of articles for learning espescially web development.
+- [1. w3school](https://www.w3schools.com/) - This helped me when I forgot something about the code. I just searched, and it appeared and provided the information I needed.
+- [2. medium](https://www.medium.com) - This is a place of articles for learning espescially web development.
 
 
 ## Author
 
-- Website - [mauludinegi](www.linkedin.com/in/mauludinegi)
+- Website - [mauludinegi](https://www.linkedin.com/in/mauludinegi)
 - Frontend Mentor - [@mauludinegi](https://www.frontendmentor.io/profile/Mauludinegi)
 
 

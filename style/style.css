@@ -42,7 +42,6 @@ main {
 .card>img {
     border-radius: 50%;
     padding: 10px 40% 10px 40%;
-    display: block;
     width: 100%;
     height: auto;
     margin-left: auto;
@@ -80,6 +79,7 @@ main {
     color: var(--color-white);
     font-weight: 600;
 }
+
 .sub-link a,
 .sub-link a:hover,
 .sub-link a:active {
