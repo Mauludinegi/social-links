@@ -89,6 +89,7 @@ main {
 .sub-link p:active,
 .sub-link p:hover {
     background-color: var(--color-primary);
+    color: var(--color-dark-grey);
 }
 
 .attribution {
